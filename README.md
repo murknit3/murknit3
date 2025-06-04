@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m murknit3 👾
 
-<!--
-**murknit3/murknit3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔴 Red teamer in training — focused on AV evasion, in-memory execution, and adversary emulation.  
+🛠️ Building shellcode loaders, injection tools, and HTA attack chains using C#.  
+💣 I reverse engineer, break protections, and share what I learn.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- C# malware development
+- Shellcode execution (VirtualAlloc, CreateThread)
+- AV/EDR evasion (sandbox detection, in-memory)
+- Wi-Fi attacks (Airodump-ng, Hashcat)
+- MITRE ATT&CK mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Current Projects
+- XOR-encrypted shellcode loaders in C#
+- Process injection into trusted binaries (notepad.exe)
+- HTA delivery with remote C2
+- AV/EDR evasion experiments
